@@ -1,4 +1,4 @@
-# Processo-Seletivo-Mobix---Desafio-de
+# Processo-Seletivo-Mobix---Desafio-tecnico
 
 
 ### Nesse desafio, utilizei prisma para trabalhar com o banco de dados.
